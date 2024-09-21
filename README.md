@@ -32,10 +32,12 @@
 
 <br/>
 
+
 <a href="https://github.com/Vixs101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vixs101&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixs101&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vixs101&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixs101&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
 </a>
+
 
 ### 🤝🏻 Connect With Me
 

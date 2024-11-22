@@ -3,7 +3,6 @@
 ### 👨🏻‍💻 About Me
 
 - 💼 I’m a Front End Developer with a knack for building innovative and beautiful websites and web applications.
-- 🌱 I’m currently learning how to build on the Algorand blockchain with AlgoKit.
 - 🔭 I’m venturing into the blockchain field, exploring the possibilities of decentralized applications (dApps).
 - 💬 Ask me about front end development, React, TypeScript, and blockchain development.
 - 📫 How to reach me: elijahvix695@gmail.com | +2349134025927

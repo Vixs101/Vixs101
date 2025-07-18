@@ -5,7 +5,7 @@
 - 💼 I’m a Front End Developer with a knack for building innovative and beautiful websites and web applications.
 - 🔭 I’m venturing into the blockchain field, exploring the possibilities of decentralized applications (dApps).
 - 💬 Ask me about front end development, React, TypeScript, and blockchain development.
-- 📫 How to reach me: elijahvix695@gmail.com | +2349134025927
+- 📫 How to reach me: elijahvix695@gmail.com
 - ⚡ Fun fact: I’m always open to learning new technologies and pushing the boundaries of web development!
 
 ### 🛠 Tech Stack

@@ -1,4 +1,4 @@
-## Hi there! My name is Elijah👋 
+## Hi there! My name is Elijah👋
 
 ### 👨🏻‍💻 About Me
 
@@ -19,6 +19,8 @@
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
   ![ShadCN](https://img.shields.io/badge/-ShadCN-333333?style=flat&logo=shadcn)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+  ![Convex](https://img.shields.io/badge/-Convex-333333?style=flat&logo=convex)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -27,15 +29,14 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=57A143)
+  ![Antigravity](https://img.shields.io/badge/-Antigravity-333333?style=flat&logo=google)
 
 <br/>
-
 
 <a href="https://github.com/Vixs101">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vixs101&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixs101&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
 </a>
-
 
 ### 🤝🏻 Connect With Me
 

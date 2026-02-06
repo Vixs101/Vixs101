@@ -18,9 +18,10 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
   ![ShadCN](https://img.shields.io/badge/-ShadCN-333333?style=flat&logo=shadcn)
+  ![Convex](https://img.shields.io/badge/-Convex-333333?style=flat&logo=convex)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-  ![Convex](https://img.shields.io/badge/-Convex-333333?style=flat&logo=convex)
+  
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)

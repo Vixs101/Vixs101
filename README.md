@@ -48,7 +48,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixs101&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vixs101&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <img height="170" src="contributions.svg" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Vixs101&hide_total_contributions=true&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%" />

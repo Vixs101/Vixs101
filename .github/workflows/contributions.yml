@@ -1,0 +1,42 @@
+name: Contributions this year
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build contributions card
+        env:
+          # Your own token: only it can see your private contributions.
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          set -euo pipefail
+          YEAR=$(date -u +%Y)
+          QUERY='query($from: DateTime!) { viewer { contributionsCollection(from: $from) { contributionCalendar { totalContributions } } } }'
+          BODY=$(jq -nc --arg q "$QUERY" --arg from "${YEAR}-01-01T00:00:00Z" '{query: $q, variables: {from: $from}}')
+          RESP=$(curl -sf -H "Authorization: bearer $GH_TOKEN" -d "$BODY" https://api.github.com/graphql)
+          TOTAL=$(echo "$RESP" | jq -er '.data.viewer.contributionsCollection.contributionCalendar.totalContributions')
+          TOTAL=$(printf "%'d" "$TOTAL" 2>/dev/null || echo "$TOTAL")
+          cat > contributions.svg <<SVG
+          <svg xmlns="http://www.w3.org/2000/svg" width="300" height="120" viewBox="0 0 300 120" role="img" aria-label="${TOTAL} contributions in ${YEAR}">
+            <rect width="300" height="120" rx="6" fill="#0d1117"/>
+            <text x="150" y="58" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="34" font-weight="700" fill="#58a6ff">${TOTAL}</text>
+            <text x="150" y="88" text-anchor="middle" font-family="Segoe UI, Ubuntu, sans-serif" font-size="14" fill="#c9d1d9">Contributions in ${YEAR} (public + private)</text>
+          </svg>
+          SVG
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contributions.svg
+          git diff --cached --quiet || (git commit -m "chore: update contributions card" && git push)

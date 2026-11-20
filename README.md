@@ -1,49 +1,54 @@
-## Hi there! My name is Elijah👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Hi%2C%20I'm%20Elijah%20👋&fontColor=c9d1d9&fontSize=42&fontAlignY=35" width="100%" />
+
+<p align="center">
+  <a href="https://github.com/Vixs101">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Front+End+Developer;React+%7C+TypeScript+%7C+Next.js;Building+with+React+Native" alt="Typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vixs101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/vixs101"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="mailto:elijahvix695@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 
 ### 👨🏻‍💻 About Me
 
-- 💼 I’m a Front End Developer with a knack for building innovative and beautiful websites and web applications.
-- 💬 Ask me about front-end web development, React, React Native, and TypeScript.
-- ⚡ Fun fact: I’m always open to learning new technologies and pushing the boundaries of web development!
+- 💼 Front End Developer who builds innovative, beautiful websites and web apps.
+- 💬 Ask me about front-end development, React, React Native, and TypeScript.
+- ⚡ Fun fact: I'm always learning new tech and pushing the boundaries of the web!
 
 ### 🛠 Tech Stack
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-  ![ShadCN](https://img.shields.io/badge/-ShadCN-333333?style=flat&logo=shadcn)
-  ![Convex](https://img.shields.io/badge/-Convex-333333?style=flat&logo=convex)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
-  
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+**Frontend**<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Neovim](https://img.shields.io/badge/-Neovim-333333?style=flat&logo=neovim&logoColor=57A143)
-  ![Antigravity](https://img.shields.io/badge/-Antigravity-333333?style=flat&logo=google)
+**Backend & Data**<br/>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white)
 
-<br/>
+**Tools**<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-<a href="https://github.com/Vixs101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vixs101&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixs101&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&border_color=30363d" />
-</a>
-
-### 🤝🏻 Connect With Me
+### 📊 GitHub Stats
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/vixs101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Elijah%20Victor-blue?style=flat-square&logo=linkedin"></a>
-    <a href="mailto:elijahvix695@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-elijahvix695@gmail.com-blue?style=flat-square&logo=gmail"></a>
-    <a href="https://x.com/vixs101"><img alt="X" src="https://img.shields.io/badge/Twitter-@vixs101-blue?style=flat-square&logo=x"></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vixs101&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vixs101&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vixs101&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </p>
 
-⭐️ From [Elijah](https://github.com/Vixs101)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%" />

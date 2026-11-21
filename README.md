@@ -18,7 +18,7 @@
 - 💬 Ask me about front-end development, React, React Native, and TypeScript.
 - ⚡ Fun fact: I'm always learning new tech and pushing the boundaries of the web!
 
-### 🚀 Featured Projects
+### 🚀 Products I've Worked On
 
 <table>
   <tr>

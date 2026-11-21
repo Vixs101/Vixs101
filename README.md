@@ -9,6 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/vixs101/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/vixs101"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://vixs.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=netlify&logoColor=white"></a>
   <a href="mailto:elijahvix695@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 
 ### 👨🏻‍💻 About Me
@@ -16,6 +17,33 @@
 - 💼 Front End Developer who builds innovative, beautiful websites and web apps.
 - 💬 Ask me about front-end development, React, React Native, and TypeScript.
 - ⚡ Fun fact: I'm always learning new tech and pushing the boundaries of the web!
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://app.safegeeg.com"><img src="https://vixs.netlify.app/safegeeg_screenshot.png" alt="SafeGeeg screenshot" /></a>
+      <h4><a href="https://app.safegeeg.com">SafeGeeg</a></h4>
+      An escrow-backed freelance marketplace for hiring talent and paying across borders.<br/><br/>
+      <code>Next.js</code> <code>React</code> <code>TypeScript</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://sitelytics.app/"><img src="https://vixs.netlify.app/sitelytics_screenshot.png" alt="Sitelytics screenshot" /></a>
+      <h4><a href="https://sitelytics.app/">Sitelytics</a></h4>
+      AI-powered website auditing on web and mobile. I built the audit experience and the React Native auth and profile screens.<br/><br/>
+      <code>Next.js</code> <code>React Native</code> <code>Lighthouse API</code>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.treasuryplot.com/"><img src="https://vixs.netlify.app/treasury-plot.png" alt="Treasury Plot screenshot" /></a>
+      <h4><a href="https://www.treasuryplot.com/">Treasury Plot</a></h4>
+      A financial media and research platform with daily market briefings for investors and young professionals.<br/><br/>
+      <code>Next.js</code> <code>Convex</code> <code>TailwindCSS</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://vixs.netlify.app/#work">See more on my portfolio →</a></p>
 
 ### 🛠 Tech Stack
 

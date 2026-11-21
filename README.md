@@ -22,19 +22,13 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://app.safegeeg.com"><img src="https://vixs.netlify.app/safegeeg_screenshot.png" alt="SafeGeeg screenshot" /></a>
       <h4><a href="https://app.safegeeg.com">SafeGeeg</a></h4>
       An escrow-backed freelance marketplace for hiring talent and paying across borders.<br/><br/>
       <code>Next.js</code> <code>React</code> <code>TypeScript</code>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://sitelytics.app/"><img src="https://vixs.netlify.app/sitelytics_screenshot.png" alt="Sitelytics screenshot" /></a>
-      <h4><a href="https://sitelytics.app/">Sitelytics</a></h4>
-      AI-powered website auditing on web and mobile. I built the audit experience and the React Native auth and profile screens.<br/><br/>
-      <code>Next.js</code> <code>React Native</code> <code>Lighthouse API</code>
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://www.treasuryplot.com/"><img src="https://vixs.netlify.app/treasury-plot.png" alt="Treasury Plot screenshot" /></a>
       <h4><a href="https://www.treasuryplot.com/">Treasury Plot</a></h4>
       A financial media and research platform with daily market briefings for investors and young professionals.<br/><br/>
